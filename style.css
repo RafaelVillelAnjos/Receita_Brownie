@@ -1,0 +1,61 @@
+body{
+    /* Mudei a or do fundo */
+background-color: white;
+text-align: center;
+}
+
+h1{
+    /* Coloquei o título no centro */
+    text-align: center;
+    
+    
+}
+
+.intro{
+    /* Coloquei a introdução no centro */
+    text-align: center;
+   
+}
+
+.subtitulo{
+    /* Coloquei os subtítulos no centro */
+    text-align: center;
+    
+}
+
+.ingredientes{
+    /* Alterei a altura e a largura */
+    height: 100%;
+    width: 10%;
+    
+    /* Coloquei os ingredientes no centro */
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    display: block;
+   
+    
+}
+
+.preparo{
+    /* Alterei a altura e a largura */
+    height: 100%;
+    width: 11%;
+   
+    /* Coloquei o modo de preparo no centro */
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    display: block;
+
+    
+
+}
+
+.imagem{
+    width: 320px;
+    height: 205px;
+    
+}
